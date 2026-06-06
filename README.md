@@ -38,4 +38,4 @@ A modern and elegant restaurant landing page built using **HTML5** and **CSS3**.
 
 **Jatin Pathak**
 
-Live: https://github.com/jatinpathak072
+Live: https://jatinpathak072.github.io/Gunaforycter-UI/
